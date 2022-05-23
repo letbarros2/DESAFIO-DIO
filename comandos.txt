@@ -1,0 +1,4 @@
+APÓS CRIAR O PRIMEIRO REPOSITORIO
+VAMOS CLONAR ELE PARA O GIT com o comando
+git clone + o nome do repositorio 
+no meu caso: git clone  https://github.com/letbarros2/DESAFIO-DIO.git
