@@ -7,3 +7,4 @@ _________________________________
 git add.
 git commit -m "mensagem para comitar" 
 git status (verificar situação)
+git push origin main (enviar para servidor)
